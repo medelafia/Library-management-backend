@@ -22,5 +22,5 @@ A library management system to manage books, members, loans, returns, fines, and
 👤 Author
 
 **Mohamed El Afia**
-📧 [YourEmail@example.com](mailto:YourEmail@example.com)
+📧 [YourEmail@example.com](mailto:mohamedelafia723@gmail.com)
 🌐 [https://github.com/medelafia](https://github.com/medelafia)
